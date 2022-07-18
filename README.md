@@ -7,7 +7,7 @@ This project I called it "Cek Palindrom" written in HTML, CSS & JavaScript Only,
 <p align="center"><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="500" height="300"/></p>
 
 ---
-### 🛠 &nbsp;Preview :
+### 📟 &nbsp;Preview :
 <p align="center"><img src="assets/preview.png" width="500" height="400" /></p>
 
 - 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-Halipuddin%20Hambali-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/halipuddin/)
@@ -26,7 +26,7 @@ This project I called it "Cek Palindrom" written in HTML, CSS & JavaScript Only,
 </p>
 
 ---
-### 🛠 &nbsp;License:
+### 📑 &nbsp;License:
 
 MIT License
 
