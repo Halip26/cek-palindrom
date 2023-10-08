@@ -102,7 +102,7 @@ header a {
   color: #239ee7;
 }
 
-@media (max-width: 520px) {
+@media screen and (max-width: 520px) {
   body {
     background-repeat: repeat;
     background-size: 250px;
