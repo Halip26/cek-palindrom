@@ -1,4 +1,4 @@
-var input = document.getElementById("myInput");
+let input = document.getElementById("myInput");
 const txtInput = document.querySelector(".inputs input"),
   checkBtn = document.querySelector(".inputs button"),
   infoTxt = document.querySelector(".info-txt");
@@ -22,11 +22,13 @@ txtInput.addEventListener("keyup", () => {
   checkBtn.classList.remove("active");
 });
 
-//uppercase input
-document.getElementById("myInput").addEventListener("keyup", myFunction);
+// uppercase input
+document
+  .getElementById("myInput")
+  .addEventListener("keyup", convertToUppercase);
 
-function myFunction() {
-  var x = document.getElementById("myInput");
+function convertToUppercase() {
+  let x = document.getElementById("myInput");
   x.value = x.value.toUpperCase();
 }
 
